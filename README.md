@@ -1,6 +1,6 @@
 # Top Rated Restaurants Near Village the Soul of India 🍽️
 
-Welcome to our curated list of excellent dining options near Village the Soul of India, known for its authentic South Indian cuisine.
+This is Top 5 list of excellent dining options near Village the Soul of India from Yelp.
 
 ## Featured Restaurants
 
