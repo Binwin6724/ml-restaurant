@@ -1,0 +1,1646 @@
+[
+    {
+        "data": {
+            "searchPage": {
+                "viewModels": {
+                    "relatedCostGuidesSeparator": {
+                        "heading": "Related Cost Guides"
+                    },
+                    "__typename": "SearchPageViewModels"
+                },
+                "costGuidePages": [],
+                "__typename": "SearchPage"
+            }
+        }
+    },
+    {
+        "data": {
+            "businesses": [
+                {
+                    "encid": "ow-uTIM780XUWhRTmLoB8Q",
+                    "name": "P.F. Chang's",
+                    "primaryPhoto": {
+                        "encid": "kl4-CwhoPXz5SU1mSk81xA",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/kl4-CwhoPXz5SU1mSk81xA/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/kl4-CwhoPXz5SU1mSk81xA/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/kl4-CwhoPXz5SU1mSk81xA/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": null,
+                        "metadata": {
+                            "author": null,
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "poultry",
+                                "food",
+                                "chicken wings",
+                                "fried chicken wings",
+                                "bbq chicken",
+                                "fried chicken",
+                                "bbq wings",
+                                "chicken wings and fried chicken",
+                                "chicken"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2022-06-02T05:04:17Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 2.9,
+                    "reviewCount": 414,
+                    "categories": [
+                        {
+                            "encid": "RMTwwhVP_hbHgenoFCQUTg",
+                            "alias": "asianfusion",
+                            "title": "Asian Fusion",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "Jk80DKazI4T7FW1z2sK4EA",
+                            "alias": "chinese",
+                            "title": "Chinese",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "p-f-changs-huntington-station",
+                    "priceRange": {
+                        "display": "$$",
+                        "__typename": "PriceRange"
+                    },
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        660,
+                                        1320
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        2100,
+                                        2760
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3540,
+                                        4200
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4980,
+                                        5640
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6420,
+                                        7140
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7860,
+                                        8580
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9300,
+                                        9960
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "W6r8Kwpjxgki0zX4tqF4vg",
+                    "name": "NY Flying Wings",
+                    "primaryPhoto": {
+                        "encid": "0mt8CNORWjspw201GrVmXQ",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/0mt8CNORWjspw201GrVmXQ/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/0mt8CNORWjspw201GrVmXQ/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/0mt8CNORWjspw201GrVmXQ/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Wings delivered!",
+                        "metadata": {
+                            "author": "Staci S.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "chicken",
+                                "chicken wings and fried chicken",
+                                "food",
+                                "fried chicken",
+                                "bbq wings",
+                                "bbq chicken",
+                                "chicken wings",
+                                "fried chicken wings",
+                                "poultry"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2023-08-12T08:28:23Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 2.7,
+                    "reviewCount": 9,
+                    "categories": [
+                        {
+                            "encid": "2dREAFvMohlb4GMSQlj1hA",
+                            "alias": "chicken_wings",
+                            "title": "Chicken Wings",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "ny-flying-wings-bethpage",
+                    "priceRange": null,
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        660,
+                                        1320
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        2100,
+                                        2760
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3540,
+                                        4200
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4980,
+                                        5640
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6420,
+                                        7080
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7860,
+                                        8520
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9360,
+                                        9960
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "_sPZ8kWu97HGvVZ-mQIvWg",
+                    "name": "Village the soul of india",
+                    "primaryPhoto": {
+                        "encid": "bhomw1W-6OQ_hEXgNNfo3g",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bhomw1W-6OQ_hEXgNNfo3g/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/bhomw1W-6OQ_hEXgNNfo3g/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/bhomw1W-6OQ_hEXgNNfo3g/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Cheese Masala dosa",
+                        "metadata": {
+                            "author": "Sunny A.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "dosa",
+                                "food",
+                                "masala dosa"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2023-05-05T06:40:50Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.8,
+                    "reviewCount": 47,
+                    "categories": [
+                        {
+                            "encid": "6OawP-KVANcQgHOQZ-oKGg",
+                            "alias": "vegetarian",
+                            "title": "Vegetarian",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "35ww51JXCkobhdf6GhvEhw",
+                            "alias": "indpak",
+                            "title": "Indian",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "village-the-soul-of-india-hicksville",
+                    "priceRange": null,
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        660,
+                                        900
+                                    ],
+                                    [
+                                        1020,
+                                        1320
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3540,
+                                        3780
+                                    ],
+                                    [
+                                        3900,
+                                        4200
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4980,
+                                        5220
+                                    ],
+                                    [
+                                        5340,
+                                        5640
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6420,
+                                        6660
+                                    ],
+                                    [
+                                        6780,
+                                        7080
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7890,
+                                        8520
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9330,
+                                        9960
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "fkPW4k9LnisYh80aRbdnPw",
+                    "name": "Smartwich Sandwich Shop",
+                    "primaryPhoto": {
+                        "encid": "QBcG7EOvqerO4KtSbDo-_g",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/QBcG7EOvqerO4KtSbDo-_g/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/QBcG7EOvqerO4KtSbDo-_g/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/QBcG7EOvqerO4KtSbDo-_g/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Pasteis de nata (aka Portuguese Egg Tarts) $3 each or 2/$5.",
+                        "metadata": {
+                            "author": "Andie E.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "food"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2022-04-09T08:13:22Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.8,
+                    "reviewCount": 89,
+                    "categories": [
+                        {
+                            "encid": "jOOVw4W6TicFOV6KyA96QQ",
+                            "alias": "sandwiches",
+                            "title": "Sandwiches",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "smartwich-sandwich-shop-hicksville",
+                    "priceRange": null,
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        540,
+                                        1020
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        1980,
+                                        2460
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3420,
+                                        3900
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4860,
+                                        5340
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6300,
+                                        6780
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7860,
+                                        8160
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "PBKAK48c_hG6Fw9T6KrEwQ",
+                    "name": "Milas and Planchas",
+                    "primaryPhoto": {
+                        "encid": "EsnCubCOOyM2FgZ3cW5pwg",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/EsnCubCOOyM2FgZ3cW5pwg/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/EsnCubCOOyM2FgZ3cW5pwg/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/EsnCubCOOyM2FgZ3cW5pwg/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "The truck outside of 181 W Old Country Rd in Hicksville",
+                        "metadata": {
+                            "author": "Max B.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "sushi and sashimi"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2020-03-30T04:32:06Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 5,
+                    "reviewCount": 4,
+                    "categories": [
+                        {
+                            "encid": "5WfAGDDGX7iwTC6cE5yxvQ",
+                            "alias": "mexican",
+                            "title": "Mexican",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "milas-and-planchas-hicksville",
+                    "priceRange": null,
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        2520,
+                                        3000
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3960,
+                                        4440
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        5400,
+                                        5880
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6840,
+                                        7380
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        8280,
+                                        8820
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9720,
+                                        60
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "K9P8XQ150ZvOToa_LL0iOQ",
+                    "name": "Uncle Don’s Kitchen",
+                    "primaryPhoto": {
+                        "encid": "DXmy68yorIPbPdBXqFOG4A",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/DXmy68yorIPbPdBXqFOG4A/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/DXmy68yorIPbPdBXqFOG4A/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/DXmy68yorIPbPdBXqFOG4A/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Spicy beef patty (best I've ever had)",
+                        "metadata": {
+                            "author": "Joseph C.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "food",
+                                "dessert",
+                                "meat",
+                                "beef",
+                                "bbq beef"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2021-10-14T08:31:47Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 133,
+                    "categories": [
+                        {
+                            "encid": "r-q0AinqjaqoWVsWzogNfQ",
+                            "alias": "caribbean",
+                            "title": "Caribbean",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "uncle-don-s-kitchen-hicksville",
+                    "priceRange": {
+                        "display": "$$",
+                        "__typename": "PriceRange"
+                    },
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        2130,
+                                        2670
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3570,
+                                        4110
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        5010,
+                                        5550
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6450,
+                                        6990
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7890,
+                                        8430
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "jk0bfZeiNUwV94mopsz_2Q",
+                    "name": "Chicken Gyro Galaxy",
+                    "primaryPhoto": {
+                        "encid": "9hzUcdio9nIyPYcsD866nw",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/9hzUcdio9nIyPYcsD866nw/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/9hzUcdio9nIyPYcsD866nw/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/9hzUcdio9nIyPYcsD866nw/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Grilled Shrimp Dinner",
+                        "metadata": {
+                            "author": "Gaming M.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "salads",
+                                "food",
+                                "salad"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2024-04-12T01:35:46Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 13,
+                    "categories": [
+                        {
+                            "encid": "hfdlfneAVXHDFHikN_TA8A",
+                            "alias": "seafood",
+                            "title": "Seafood",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "jOOVw4W6TicFOV6KyA96QQ",
+                            "alias": "sandwiches",
+                            "title": "Sandwiches",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "jjt97lbh_UPYexuBBVyKSA",
+                            "alias": "greek",
+                            "title": "Greek",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "chicken-gyro-galaxy-hicksville",
+                    "priceRange": null,
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        660,
+                                        1260
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        2100,
+                                        2700
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3540,
+                                        4140
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4980,
+                                        5580
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6420,
+                                        7020
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7860,
+                                        8460
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9300,
+                                        9900
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "MuMiy5tZY8h7VQMSGtUWIw",
+                    "name": "Kunga Kitchen",
+                    "primaryPhoto": {
+                        "encid": "jDwgvly7O1HWcE3SBpb8pQ",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/jDwgvly7O1HWcE3SBpb8pQ/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/jDwgvly7O1HWcE3SBpb8pQ/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/jDwgvly7O1HWcE3SBpb8pQ/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Butter Chicken",
+                        "metadata": {
+                            "author": null,
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "food",
+                                "butter chicken",
+                                "bbq chicken",
+                                "poultry",
+                                "chicken",
+                                "paella",
+                                "chicken curry"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2023-02-15T03:41:37Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 63,
+                    "categories": [
+                        {
+                            "encid": "RMTwwhVP_hbHgenoFCQUTg",
+                            "alias": "asianfusion",
+                            "title": "Asian Fusion",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "35ww51JXCkobhdf6GhvEhw",
+                            "alias": "indpak",
+                            "title": "Indian",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "JnkBnH4VJ0DtG6A096Mg1A",
+                            "alias": "thai",
+                            "title": "Thai",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "kunga-kitchen-hicksville",
+                    "priceRange": {
+                        "display": "$$",
+                        "__typename": "PriceRange"
+                    },
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        660,
+                                        1320
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3540,
+                                        4200
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4980,
+                                        5640
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6420,
+                                        7080
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7860,
+                                        8520
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9300,
+                                        9960
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "v7dLHbGHTWorRE72e2-rBQ",
+                    "name": "San Eduardo",
+                    "primaryPhoto": {
+                        "encid": "_b3GoXnrFLG4KSecEBegXQ",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/_b3GoXnrFLG4KSecEBegXQ/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/_b3GoXnrFLG4KSecEBegXQ/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/_b3GoXnrFLG4KSecEBegXQ/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": null,
+                        "metadata": {
+                            "author": "Mindy M.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "food"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2023-06-23T22:54:54Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 5,
+                    "categories": [
+                        {
+                            "encid": "HqXBDz9r2BXZaQBe_R3kgQ",
+                            "alias": "delis",
+                            "title": "Delis",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "san-eduardo-hicksville-2",
+                    "priceRange": null,
+                    "operationHours": null
+                },
+                {
+                    "encid": "y7XpYW0PIloWcdwKgDiK8w",
+                    "name": "Taste of Mumbai",
+                    "primaryPhoto": {
+                        "encid": "Yc2Be-1tntKp6Z7KrfCkCQ",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Yc2Be-1tntKp6Z7KrfCkCQ/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Yc2Be-1tntKp6Z7KrfCkCQ/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Yc2Be-1tntKp6Z7KrfCkCQ/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": null,
+                        "metadata": {
+                            "author": "Thamvir H.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "food"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2024-04-23T09:53:37Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 69,
+                    "categories": [
+                        {
+                            "encid": "35ww51JXCkobhdf6GhvEhw",
+                            "alias": "indpak",
+                            "title": "Indian",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "taste-of-mumbai-hicksville-3",
+                    "priceRange": null,
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        690,
+                                        900
+                                    ],
+                                    [
+                                        1020,
+                                        1290
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3570,
+                                        3780
+                                    ],
+                                    [
+                                        3900,
+                                        4170
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        5010,
+                                        5220
+                                    ],
+                                    [
+                                        5340,
+                                        5610
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6450,
+                                        6660
+                                    ],
+                                    [
+                                        6780,
+                                        7080
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7890,
+                                        8100
+                                    ],
+                                    [
+                                        8220,
+                                        8520
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9330,
+                                        9540
+                                    ],
+                                    [
+                                        9660,
+                                        9930
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "GIXIjZvIUrkNtYiPSlDeEg",
+                    "name": "Kinya Ramen",
+                    "primaryPhoto": {
+                        "encid": "PuhTnWBemV1tqbTppnkI-w",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/PuhTnWBemV1tqbTppnkI-w/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/PuhTnWBemV1tqbTppnkI-w/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/PuhTnWBemV1tqbTppnkI-w/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Scorched eel tamaki, with a very distinct smokiness. Delicious!",
+                        "metadata": {
+                            "author": "Jo I.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "ribs",
+                                "bbq ribs",
+                                "food"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2023-08-20T09:12:17Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 288,
+                    "categories": [
+                        {
+                            "encid": "ubV2EZduvkbqaUjHqTK0Hg",
+                            "alias": "sushi",
+                            "title": "Sushi Bars",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "MHwNep1585bGYGQGK8CudQ",
+                            "alias": "ramen",
+                            "title": "Ramen",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "FIW3O50FJ6hyqdvrHxTa0g",
+                            "alias": "cocktailbars",
+                            "title": "Cocktail Bars",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "-Wdg7PAPC7AO84BVq3d6zA",
+                                "alias": "nightlife",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "kinya-ramen-and-bar-hicksville",
+                    "priceRange": {
+                        "display": "$$",
+                        "__typename": "PriceRange"
+                    },
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        690,
+                                        1320
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        2130,
+                                        2760
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3570,
+                                        4200
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        5010,
+                                        5640
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6450,
+                                        7140
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7890,
+                                        8580
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9330,
+                                        9960
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "8nGQHzhB5tcdDd6IyYgyCg",
+                    "name": "El Chiquito Deli Grocery",
+                    "primaryPhoto": {
+                        "encid": "Yn9Qr1xDn0JwfHZkOefdHA",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Yn9Qr1xDn0JwfHZkOefdHA/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Yn9Qr1xDn0JwfHZkOefdHA/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Yn9Qr1xDn0JwfHZkOefdHA/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": null,
+                        "metadata": {
+                            "author": "Chelson F.",
+                            "encodingFormat": "JPEG",
+                            "keywords": [],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2016-06-22T19:38:54Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 4.6,
+                    "reviewCount": 9,
+                    "categories": [
+                        {
+                            "encid": "HqXBDz9r2BXZaQBe_R3kgQ",
+                            "alias": "delis",
+                            "title": "Delis",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "4L2AZW2H5hYvKt9v7to3fQ",
+                            "alias": "intlgrocery",
+                            "title": "International Grocery",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "sa6Hv0hkKYMiTJ8yXgeQuw",
+                                "alias": "food",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "Bh4q1SCUe50KSjOFkLAueA",
+                            "alias": "breakfast_brunch",
+                            "title": "Breakfast & Brunch",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "el-chiquito-deli-grocery-hicksville-2",
+                    "priceRange": {
+                        "display": "$",
+                        "__typename": "PriceRange"
+                    },
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        330,
+                                        1290
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        1770,
+                                        2745
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3210,
+                                        4170
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4650,
+                                        5610
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6090,
+                                        7050
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7530,
+                                        8490
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9060,
+                                        9855
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                },
+                {
+                    "encid": "D6X-HH86WTvn7mHJ1WDgkg",
+                    "name": "Carle Place Deli by Foodies Cafe",
+                    "primaryPhoto": {
+                        "encid": "Quh4hx1qAUz-LJpXa--EZw",
+                        "photoUrl": {
+                            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Quh4hx1qAUz-LJpXa--EZw/ls.jpg",
+                            "__typename": "BusinessPhotoUrl",
+                            "contentUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Quh4hx1qAUz-LJpXa--EZw/1000s.jpg",
+                            "thumbnailUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Quh4hx1qAUz-LJpXa--EZw/348s.jpg"
+                        },
+                        "__typename": "BusinessPhoto",
+                        "caption": "Deli",
+                        "metadata": {
+                            "author": null,
+                            "encodingFormat": "JPEG",
+                            "keywords": [
+                                "outside"
+                            ],
+                            "isFamilyFriendly": true,
+                            "uploadDate": {
+                                "utcDateTime": "2023-04-28T23:35:23Z",
+                                "__typename": "DateTime"
+                            },
+                            "__typename": "BusinessPhotoMetadata"
+                        }
+                    },
+                    "rating": 3.2,
+                    "reviewCount": 33,
+                    "categories": [
+                        {
+                            "encid": "03d2twemciFxwcx93k-8hg",
+                            "alias": "fooddeliveryservices",
+                            "title": "Food Delivery Services",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "sa6Hv0hkKYMiTJ8yXgeQuw",
+                                "alias": "food",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "HqXBDz9r2BXZaQBe_R3kgQ",
+                            "alias": "delis",
+                            "title": "Delis",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        },
+                        {
+                            "encid": "jOOVw4W6TicFOV6KyA96QQ",
+                            "alias": "sandwiches",
+                            "title": "Sandwiches",
+                            "__typename": "BusinessCategory",
+                            "root": {
+                                "encid": "787jnoKe7bybdgxyBxiCfA",
+                                "alias": "restaurants",
+                                "__typename": "BusinessCategory"
+                            }
+                        }
+                    ],
+                    "__typename": "Business",
+                    "alias": "carle-place-deli-by-foodies-cafe-carle-place-2",
+                    "priceRange": {
+                        "display": "$$$",
+                        "__typename": "PriceRange"
+                    },
+                    "operationHours": {
+                        "timezone": "America/New_York",
+                        "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        360,
+                                        1080
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        1800,
+                                        2520
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        3240,
+                                        3960
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        4680,
+                                        5400
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        6120,
+                                        6840
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        7560,
+                                        8280
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            },
+                            {
+                                "regularHoursRaw": [
+                                    [
+                                        9060,
+                                        9660
+                                    ]
+                                ],
+                                "__typename": "OperationHoursForADayOfWeek"
+                            }
+                        ],
+                        "__typename": "OperationHours"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "webConsumerFooter": {
+                "copyright": {
+                    "burstLogo": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/cabcef1daea2/assets/img/brand/burst_red.svg",
+                    "defaultLogo": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/7ef71bf77a33/assets/img/brand/logo_desktop.svg",
+                    "__typename": "WebConsumerFooterCopyright"
+                },
+                "__typename": "WebConsumerFooter"
+            }
+        }
+    }
+]

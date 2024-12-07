@@ -1,46 +1,47 @@
-# Top Rated Hotels Near Village the Soul of India 🏨
+# Top Rated Restaurants Near Village the Soul of India 🍽️
 
-Welcome to our curated list of excellent accommodations near the renowned Village the Soul of India restaurant, known for its authentic South Indian cuisine.
+Welcome to our curated list of excellent dining options near Village the Soul of India, known for its authentic South Indian cuisine.
 
-## Featured Hotels
+## Featured Restaurants
 
-### 1. Comfort Inn & Suites ⭐⭐⭐⭐
-- Distance from Village: 0.3 miles
-- Price Range: $$
-- Amenities: Free WiFi, Complimentary Breakfast, Parking
-- Perfect for business travelers and families
+### 1. Village the Soul of India ⭐⭐⭐⭐½
+- Closing Time: 11:30 AM
+- Cuisine: South Indian
+- Specialties: Authentic South Indian cuisine
+- Tags: Indian, Casual, Ethnic
 
-### 2. The Grand Hotel ⭐⭐⭐⭐⭐
-- Distance from Village: 0.5 miles
-- Price Range: $$$
-- Amenities: Pool, Spa, Restaurant, Fitness Center
-- Luxury accommodation with excellent service
+### 2. Smartwich Sandwich Shop ⭐⭐⭐⭐½
+- Closing Time: 11:00 AM
+- Cuisine: Sandwiches
+- Location: Middle of Long Island
+- Known for: Creative sandwich combinations
 
-### 3. Budget Inn Express ⭐⭐⭐
-- Distance from Village: 0.2 miles
-- Price Range: $
-- Amenities: Free WiFi, Basic Breakfast
-- Great for budget-conscious travelers
+### 3. Milas and Planchas ⭐⭐⭐⭐½
+- Closing Time: 5:00 PM
+- Cuisine: Mexican
+- Location: Across the parking garage
+- Known for: Authentic Mexican food
 
-### 4. Riverside Lodge ⭐⭐⭐⭐
-- Distance from Village: 0.7 miles
-- Price Range: $$
-- Amenities: River View, Restaurant, Free Parking
-- Beautiful location with scenic views
+### 4. Uncle Don's Kitchen ⭐⭐⭐⭐½
+- Closing Time: 11:30 AM
+- Cuisine: Caribbean
+- Specialties: Slow Chicken and Roti Curry Chicken dinner
+- Tags: Caribbean, Casual, Ethnic
+
+### 5. Chicken Gyro Galaxy ⭐⭐⭐⭐½
+- Closing Time: 11:00 AM
+- Cuisine: Mediterranean
+- Known for: Generous portions and excellent value
+- Tags: Seafood, Sandwiches, Greek
 
 ## Transportation Tips
-- All hotels are within walking distance to Village the Soul of India
-- Taxi and ride-sharing services readily available
-- Public transportation stops nearby
+- All restaurants are within walking distance of each other
+- Ample parking available
+- Public transportation accessible
 
 ## Additional Information
-- Best to book in advance during peak seasons
-- Most hotels offer special rates for extended stays
-- All listed hotels are pet-friendly (with prior notice)
+- Best to check current operating hours
+- Some locations offer takeout and delivery
+- Call ahead for large group reservations
 
-## Contact
-For more information about hotels or restaurant reservations:
-- Village the Soul of India: [Contact Number]
-- Local Tourist Information: [Website]
-
-*Note: Prices and availability may vary by season. It's recommended to check directly with hotels for current rates and availability.*
+*Note: Ratings and operating hours may vary. It's recommended to check directly with restaurants for current information.*
