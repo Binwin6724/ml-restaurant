@@ -6,10 +6,26 @@ This is Top 5 list of excellent dining options near Village the Soul of India fr
 
 ### 1. Village the Soul of India ⭐⭐⭐⭐½
 - Rating: 4.5/5 (47 reviews)
-- Closing Time: 11:30 AM
+- Address: 217 Bethpage Road, Hicksville, NY 11801
+- Hours: Closed until 11:30 AM
 - Cuisine: South Indian
 - Specialties: Authentic South Indian cuisine
 - Tags: Indian, Casual, Ethnic
+
+#### Popular Menu Items
+- Dosa varieties
+- South Indian Thali
+- Idli and Vada
+- Curry dishes
+- Biryani
+
+#### Restaurant Details
+- 🏠 Location: Hidden gem in Hicksville
+- 🍽️ Dining Style: Casual dining
+- 🚗 Parking: Available
+- 💳 Price Range: $$
+- 👥 Good For: Lunch, Dinner, Groups
+- 🌶️ Specializes in authentic South Indian cuisine
 
 ### 2. Smartwich Sandwich Shop ⭐⭐⭐⭐½
 - Rating: 4.5/5 (89 reviews)
